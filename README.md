@@ -1,4 +1,4 @@
-# High-order dynamical decoupling for arbitrary noise in the weak-coupling regime
+# High-order dynamical decoupling in the weak-coupling regime
 
 Implementation and numerical demos for "High-order dynamical decoupling for arbitrary noise in the weak-coupling regime" by Leeseok Kim and Milad Marvian.
 
