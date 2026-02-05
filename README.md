@@ -1,20 +1,8 @@
-# Least-squares DD optimization (project skeleton)
+# High-order dynamical decoupling for arbitrary noise in the weak-coupling regime
+
+
 
 This folder contains:
 - `dd/`: helper modules (moments optimization, Hamiltonian/evolver, pulse compilation, metrics/plotting)
-- `least_square_dd_optimization.ipynb`: runnable notebook
-
-## Quick start
-1) Create an environment and install deps:
-   - `pip install -r requirements.txt`
-
-2) Open the notebook and run all cells:
-   - `jupyter lab` (or `jupyter notebook`)
-
-The notebook reproduces:
-- Moment-cancellation timing optimization for K=1..8
-- Weak-coupling scaling check via operator-norm error vs T on a random bath
-
-
-## QDD comparison
-- `qdd_comparison_trace_distance.ipynb`: Monte Carlo trace-distance comparison (Our DD vs QDD)
+- `least_square_dd_optimization.ipynb`: Confirmation of error scaling in $T$ for different values of $J$ (Fig. 1)
+- `qdd_comparison_trace_distance.ipynb`: Comparison with QDD (Fig. 2)
