@@ -1,6 +1,6 @@
 # High-order dynamical decoupling in the weak-coupling regime
 
-Implementation and numerical demos for "High-order dynamical decoupling for arbitrary noise in the weak-coupling regime" by Leeseok Kim and Milad Marvian.
+Implementation and numerical demos for *High-order dynamical decoupling in the weak-coupling regime*  (Leeseok Kim and Milad Marvian, Paper: [arXiv:2602.05343](https://arxiv.org/abs/2602.05343)).
 
 
 <p align="center">
